@@ -1,0 +1,14 @@
+{
+  "name": "cordova-ondeviceready",
+  "version": "0.1",
+  "homepage": "https://github.com/Rhinofly/cordova-ondeviceready",
+  "description": "Tiny script to handle the device ready event at arbitrary times",
+  "main": "onCordovaDeviceReady.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "cordova", "deviceready"
+  ],
+  "license": "MIT"
+}
