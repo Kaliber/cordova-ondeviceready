@@ -10,5 +10,6 @@
   "keywords": [
     "cordova", "deviceready"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": []
 }
