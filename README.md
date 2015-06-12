@@ -13,6 +13,6 @@ bower install cordova-ondeviceready --save
 ## Usage
 
 ```html
-<script type="text/javascript" src="bower_components/onCordovaDeviceReady.js"></script>
+<script type="text/javascript" src="bower_components/cordova-ondeviceready/onCordovaDeviceReady.js"></script>
 <script type="text/javascript" src="cordova.js"></script>
 ```
