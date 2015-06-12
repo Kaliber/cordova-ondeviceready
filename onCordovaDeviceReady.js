@@ -8,7 +8,7 @@ document.onCordovaDeviceReady =
     function onDeviceReady() {
       deviceIsReady = true;
 
-      document.removeEventListener('deviceready');
+      document.removeEventListener('deviceready', onDeviceReady);
 
       for (var i in callbacks) callbacks[i]();
 
